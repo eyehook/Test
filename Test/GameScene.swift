@@ -2,8 +2,9 @@
 //  GameScene.swift
 //  Test
 //
-//  Created by Michael Muir on 8/2/17.
+//  Created on 8/2/17.
 //  Copyright © 2017 Eyehook Games LLC. All rights reserved.
+//  MIT License
 //
 
 import SpriteKit
