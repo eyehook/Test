@@ -15,6 +15,7 @@
 		E60ABAB61F32684F009CB724 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB41F32684F009CB724 /* Main.storyboard */; };
 		E60ABAB81F32684F009CB724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB71F32684F009CB724 /* Assets.xcassets */; };
 		E60ABABB1F32684F009CB724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB91F32684F009CB724 /* LaunchScreen.storyboard */; };
+		E6E4AA791F3271B500567A0C /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E4AA781F3271B500567A0C /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E60ABAB71F32684F009CB724 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E60ABABA1F32684F009CB724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E60ABABC1F32684F009CB724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6E4AA781F3271B500567A0C /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				E60ABAAC1F32684F009CB724 /* GameScene.sks */,
 				E60ABAAE1F32684F009CB724 /* Actions.sks */,
 				E60ABAB01F32684F009CB724 /* GameScene.swift */,
+				E6E4AA781F3271B500567A0C /* Test.swift */,
 				E60ABAB21F32684F009CB724 /* GameViewController.swift */,
 				E60ABAB41F32684F009CB724 /* Main.storyboard */,
 				E60ABAB71F32684F009CB724 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E60ABAB11F32684F009CB724 /* GameScene.swift in Sources */,
+				E6E4AA791F3271B500567A0C /* Test.swift in Sources */,
 				E60ABAB31F32684F009CB724 /* GameViewController.swift in Sources */,
 				E60ABAAB1F32684F009CB724 /* AppDelegate.swift in Sources */,
 			);
@@ -313,6 +317,7 @@
 				E60ABAC11F32684F009CB724 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
