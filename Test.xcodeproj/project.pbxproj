@@ -16,6 +16,7 @@
 		E60ABAB81F32684F009CB724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB71F32684F009CB724 /* Assets.xcassets */; };
 		E60ABABB1F32684F009CB724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB91F32684F009CB724 /* LaunchScreen.storyboard */; };
 		E66AA7D01F32756900EAB9D7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E66AA7CF1F32756900EAB9D7 /* LICENSE */; };
+		E688CB201F327B89003715B0 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E688CB1F1F327B89003715B0 /* README.md */; };
 		E6E4AA791F3271B500567A0C /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E4AA781F3271B500567A0C /* Test.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		E60ABABA1F32684F009CB724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E60ABABC1F32684F009CB724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E66AA7CF1F32756900EAB9D7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E688CB1F1F327B89003715B0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E6E4AA781F3271B500567A0C /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				E66AA7CF1F32756900EAB9D7 /* LICENSE */,
+				E688CB1F1F327B89003715B0 /* README.md */,
 				E60ABAA91F32684F009CB724 /* Test */,
 				E60ABAA81F32684F009CB724 /* Products */,
 			);
@@ -156,6 +159,7 @@
 			files = (
 				E60ABAB11F32684F009CB724 /* GameScene.swift in Sources */,
 				E6E4AA791F3271B500567A0C /* Test.swift in Sources */,
+				E688CB201F327B89003715B0 /* README.md in Sources */,
 				E60ABAB31F32684F009CB724 /* GameViewController.swift in Sources */,
 				E60ABAAB1F32684F009CB724 /* AppDelegate.swift in Sources */,
 			);
