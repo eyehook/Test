@@ -10,5 +10,7 @@
 import Foundation
 
 class Test {
-    
+    func helloWorld() {
+        print("Hello World!")
+    }
 }
