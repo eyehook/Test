@@ -15,6 +15,7 @@
 		E60ABAB61F32684F009CB724 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB41F32684F009CB724 /* Main.storyboard */; };
 		E60ABAB81F32684F009CB724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB71F32684F009CB724 /* Assets.xcassets */; };
 		E60ABABB1F32684F009CB724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E60ABAB91F32684F009CB724 /* LaunchScreen.storyboard */; };
+		E66AA7D01F32756900EAB9D7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E66AA7CF1F32756900EAB9D7 /* LICENSE */; };
 		E6E4AA791F3271B500567A0C /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E4AA781F3271B500567A0C /* Test.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		E60ABAB71F32684F009CB724 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E60ABABA1F32684F009CB724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E60ABABC1F32684F009CB724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E66AA7CF1F32756900EAB9D7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E6E4AA781F3271B500567A0C /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -46,6 +48,7 @@
 		E60ABA9E1F32684E009CB724 = {
 			isa = PBXGroup;
 			children = (
+				E66AA7CF1F32756900EAB9D7 /* LICENSE */,
 				E60ABAA91F32684F009CB724 /* Test */,
 				E60ABAA81F32684F009CB724 /* Products */,
 			);
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E66AA7D01F32756900EAB9D7 /* LICENSE in Resources */,
 				E60ABAB61F32684F009CB724 /* Main.storyboard in Resources */,
 				E60ABAAD1F32684F009CB724 /* GameScene.sks in Resources */,
 				E60ABAB81F32684F009CB724 /* Assets.xcassets in Resources */,
